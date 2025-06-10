@@ -1,3 +1,5 @@
+[![](https://camo.githubusercontent.com/b399d558221c6b353d6bd58d85a66624cce4a78b381dddd35400b4d3274fd00a/687474703a2f2f7777772e756e646572636f6e73696465726174696f6e2e636f6d2f6272616e646e65772f61726368697665732f70617970616c5f323031345f6c6f676f5f64657461696c2e706e67)]([https://gitter.im/Hackintosh-Life-IT/community](https://paypal.me/AlessioSavinelli211)
+
 # HP-250-G6-Kabylake
 ![infocatalina](./Screenshot/1.jpg)
 
