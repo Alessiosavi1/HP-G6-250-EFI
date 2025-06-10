@@ -20,10 +20,6 @@
 
 ![infobigsur](./Screenshot/2.jpg) 
 
-## DPCIManager Screenshot
-![infodp1](./Screenshot/3.jpg)
-![infodp2](./Screenshot/4.jpg)
-
 ### What works and What doesn't or WIP:
 - [x] Intel HD 620 iGPU HDMI Output
 - [x] ALC282 Internal Speakers
