@@ -1,4 +1,5 @@
-[![]([https://img.shields.io/badge/Reposity-Baio77-informational?style=flat&logo=apple&logoColor=white&color=9debeb](https://avatars.githubusercontent.com/u/476675?s=200&v=4))](https://www.paypal.com/paypalme/AlessioSavinelli211)
+  <a href="https://www.paypal.com/paypalme/AlessioSavinelli211" target="_blank">PayPal</a>
+    
 # HP-250-G6-Kabylake
 ![infocatalina](./Screenshot/1.jpg)
 
