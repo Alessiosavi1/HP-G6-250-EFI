@@ -1,9 +1,5 @@
-[![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
-[![](https://img.shields.io/badge/Reposity-Baio77-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Baio1977?tab=repositories)
-[![](https://img.shields.io/badge/Telegram-HackintoshLifeIT-informational?style=flat&logo=telegram&logoColor=white&color=5fb659)](https://t.me/HackintoshLife_it)
-[![](https://img.shields.io/badge/Facebook-HackintoshLifeIT-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/hackintoshlife/)
-[![](https://img.shields.io/badge/Instagram-HackintoshLifeIT-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/hackintoshlife.it_official/)
-
+  <a href="https://www.paypal.com/paypalme/AlessioSavinelli211" target="_blank">PayPal</a>
+    
 # HP-250-G6-Kabylake
 ![infocatalina](./Screenshot/1.jpg)
 
@@ -26,10 +22,6 @@
 
 ![infobigsur](./Screenshot/2.jpg) 
 
-## DPCIManager Screenshot
-![infodp1](./Screenshot/3.jpg)
-![infodp2](./Screenshot/4.jpg)
-
 ### What works and What doesn't or WIP:
 - [x] Intel HD 620 iGPU HDMI Output
 - [x] ALC282 Internal Speakers
@@ -50,22 +42,3 @@
 - Usb port mapping performed
 - Disabled unused device
 - Cosmetics DSM in Configplist
-
-## Info Section HDMI video
-![pcisection](./Screenshot/5.png)
-
-## Info Section Power
-![pcisection](./Screenshot/6.png)
-
-## Info Section SSDT
-![SSDT HP 250 G6](./Screenshot/7.png)
-![SSDT HP 250 G6](./Screenshot/8.png)
-
-## Credits
-- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
-- [Apple](https://apple.com) for macOS;
-- [Dortania](https://github.com/dortania)
-- [Hackintoshlifeit](https://github.com/Hackintoshlifeit)
-- [rehabman](https://github.com/RehabMan)
-
-# If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/)
